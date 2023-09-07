@@ -1,0 +1,28 @@
+﻿body {
+    background-image: url(Profe.png)
+}
+header{
+    text-align:center;
+    font-size: 50px;
+    color:red;
+
+}
+section{
+    text-align:right;
+    font-size:30px;
+    color:blueviolet
+}
+nav{
+    text-align:left;
+    font-size:30px;
+    color:aqua;
+}
+div{
+    text-align:center;
+    font-size:50px;
+    color:blue
+}
+
+
+
+
